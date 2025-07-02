@@ -25,7 +25,7 @@
 | Joker 1️⃣ | Infinity | [Refsheet](../main/refsheets/infinity.png) | ✅ |
 | Joker 2️⃣ | Leon | [Refsheet](../main/refsheets/leon.png) | ⏳ |
 | Joker 3️⃣ | Ponk | [Refsheet](../main/refsheets/ponk.png) | ⏳ |
-| Joker 4️⃣ | - | [-](../main/refsheets/ponk.png) | ⏳ |
+| Joker 4️⃣ | Pax | [Refsheet](../main/refsheets/pax.png) | ⏳ |
 
 ✅ All good
 
