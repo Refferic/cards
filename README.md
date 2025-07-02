@@ -27,5 +27,7 @@
 | Joker 3️⃣ | Ponk | [Refsheet](../main/refsheets/ponk.png) | ⏳ |
 
 ✅ All good
+
 🔍 Checking their name
+
 ⏳ Waiting for the refsheet
