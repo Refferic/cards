@@ -20,7 +20,7 @@
 | Jack ♠️ | Rubrum Devoss | [Refsheet](../main/refsheets/rubrum.png) | ✅ |
 | Jack ♣️ | Bruni | [Refsheet](../main/refsheets/bruni.png) | ✅ |
 | Jack ♦️ | Benzene | [Refsheet](../main/refsheets/benzene.png) | ✅ |
-| Jack ♥️ | Jack O’Neill | [Refsheet](../main/refsheets/jack.png) | 🔍 |
+| Jack ♥️ | Jack O’Neill | [Refsheet](../main/refsheets/jack.png) | ✅ |
 |  |  |  |  |
 | Joker 1️⃣ | Infinity | [Refsheet](../main/refsheets/infinity.png) | ✅ |
 | Joker 2️⃣ | Leon | [Refsheet](../main/refsheets/leon.png) | ⏳ |
