@@ -1,6 +1,6 @@
 # cards
 
-| Card        | Fursona           | Art  | Name + Ref Check  |
+| Card        | Name           | Link  | Name + Ref Check  |
 | ------------- | ------------- | ----- | :-----: |
 | Ace ♠️ | Frax | [Refsheet](../main/refsheets/frax.png) | ✅ |
 | Ace ♣️ | Kesu | [Refsheet](../main/refsheets/kesu.png) | ✅ |
