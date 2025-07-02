@@ -1,6 +1,6 @@
 # cards
 
-| Card        | Name           | Link  | Name + Ref Check  |
+| Card        | Name           | Link  | Status  |
 | ------------- | ------------- | ----- | :-----: |
 | Ace ♠️ | Frax | [Refsheet](../main/refsheets/frax.png) | ✅ |
 | Ace ♣️ | Kesu | [Refsheet](../main/refsheets/kesu.png) | 🔍 |
