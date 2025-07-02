@@ -14,7 +14,7 @@
 |  |  |  |  |
 | Queen ♠️ | Eliot | [Refsheet](../main/refsheets/eliot.png) | ✅ |
 | Queen ♣️ | Inkosi | [Refsheet](../main/refsheets/inkosi.png) | ✅ |
-| Queen ♦️ | Cara | [Refsheet](../main/refsheets/cara.png) | 🔍 |
+| Queen ♦️ | Cara | [Refsheet](../main/refsheets/cara.png) | ✅ |
 | Queen ♥️ | Teksun | [Refsheet](../main/refsheets/teksun.png) | ✅ |
 |  |  |  |  |
 | Jack ♠️ | Rubrum Devoss | [Refsheet](../main/refsheets/rubrum.png) | ✅ |
