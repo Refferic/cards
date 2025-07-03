@@ -3,7 +3,7 @@
 | Card        | Name           | Ref  | Remarks | Status  |
 | ------------- | ------------- | ----- | ----- | :-----: |
 | Ace ♠️ | Frax | [🖌️](../main/refsheets/frax.png) | | ✅ |
-| Ace ♣️ | Kesu | [🖌️](../main/refsheets/kesu.png) | | 🔍 |
+| Ace ♣️ | Kesu | [🖌️](../main/refsheets/kesu.png) | | ✅ |
 | Ace ♦️ | Fideel | [🖌️](../main/refsheets/fideel.png) | | ✅ |
 | Ace ♥️ | Trygve | [🖌️](../main/refsheets/trygve.png) | | ✅ |
 |  |  |  |  |  |
