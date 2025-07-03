@@ -1,31 +1,31 @@
 # cards
 
-| Card        | Name           | Link  | Remarks | Status  |
+| Card        | Name           | Ref  | Remarks | Status  |
 | ------------- | ------------- | ----- | ----- | :-----: |
-| Ace ♠️ | Frax | [Refsheet](../main/refsheets/frax.png) | | ✅ |
-| Ace ♣️ | Kesu | [Refsheet](../main/refsheets/kesu.png) | | 🔍 |
-| Ace ♦️ | Fideel | [Refsheet](../main/refsheets/fideel.png) | | ✅ |
-| Ace ♥️ | Trygve | [Refsheet](../main/refsheets/trygve.png) | | ✅ |
+| Ace ♠️ | Frax | [🖌️](../main/refsheets/frax.png) | | ✅ |
+| Ace ♣️ | Kesu | [🖌️](../main/refsheets/kesu.png) | | 🔍 |
+| Ace ♦️ | Fideel | [🖌️](../main/refsheets/fideel.png) | | ✅ |
+| Ace ♥️ | Trygve | [🖌️](../main/refsheets/trygve.png) | | ✅ |
 |  |  |  |  |  |
-| King ♠️ | Gonzo | [Refsheet](../main/refsheets/gonzo.png) | | ✅ |
-| King ♣️ | Spike | [Refsheet](../main/refsheets/spike.png) | | ✅ |
-| King ♦️ | Bruce | [Refsheet](../main/refsheets/bruce.png) | | ✅ |
-| King ♥️ | Refferic | [Refsheet](../main/refsheets/refferic.png) | | ✅ |
+| King ♠️ | Gonzo | [🖌️](../main/refsheets/gonzo.png) | | ✅ |
+| King ♣️ | Spike | [🖌️](../main/refsheets/spike.png) | | ✅ |
+| King ♦️ | Bruce | [🖌️](../main/refsheets/bruce.png) | | ✅ |
+| King ♥️ | Refferic | [🖌️](../main/refsheets/refferic.png) | | ✅ |
 |  |  |  |  |  |
-| Queen ♠️ | Eliot | [Refsheet](../main/refsheets/eliot.png) | | ✅ |
-| Queen ♣️ | Inkosi | [Refsheet](../main/refsheets/inkosi.png) | | ✅ |
-| Queen ♦️ | Cara | [Refsheet](../main/refsheets/cara.png) | | ✅ |
-| Queen ♥️ | Teksun | [Refsheet](../main/refsheets/teksun.png) | | ✅ |
+| Queen ♠️ | Eliot | [🖌️](../main/refsheets/eliot.png) | | ✅ |
+| Queen ♣️ | Inkosi | [🖌️](../main/refsheets/inkosi.png) | | ✅ |
+| Queen ♦️ | Cara | [🖌️](../main/refsheets/cara.png) | | ✅ |
+| Queen ♥️ | Teksun | [🖌️](../main/refsheets/teksun.png) | | ✅ |
 |  |  |  |  |  |
-| Jack ♠️ | Rubrum Devoss | [Refsheet](../main/refsheets/rubrum.png) | | ✅ |
-| Jack ♣️ | Bruni | [Refsheet](../main/refsheets/bruni.png) | | ✅ |
-| Jack ♦️ | Benzene | [Refsheet](../main/refsheets/benzene.png) | | ✅ |
-| Jack ♥️ | Jack O’Neill | [Refsheet](../main/refsheets/jack.png) | | ✅ |
+| Jack ♠️ | Rubrum Devoss | [🖌️](../main/refsheets/rubrum.png) | | ✅ |
+| Jack ♣️ | Bruni | [🖌️](../main/refsheets/bruni.png) | | ✅ |
+| Jack ♦️ | Benzene | [🖌️](../main/refsheets/benzene.png) | | ✅ |
+| Jack ♥️ | Jack O’Neill | [🖌️](../main/refsheets/jack.png) | | ✅ |
 |  |  |  |  |  |
-| Joker 1️⃣ | Infinity | [Refsheet](../main/refsheets/infinity.png) | Grey on the refsheet is really dark, sona is normally lighter grey | ✅ |
-| Joker 2️⃣ | Leon | [Refsheet](../main/refsheets/leon.png) | | ⏳ |
-| Joker 3️⃣ | Pocket | [Refsheet](../main/refsheets/pocket.png) | Refsheet does not contain black "fox" markings on snout | ✅ |
-| Joker 4️⃣ | Pax | [Refsheet](../main/refsheets/pax.png) | | ✅ |
+| Joker 1️⃣ | Infinity | [🖌️](../main/refsheets/infinity.png) | Grey on the refsheet is really dark, sona is normally lighter grey | ✅ |
+| Joker 2️⃣ | Leon | [🖌️](../main/refsheets/leon.png) | | ⏳ |
+| Joker 3️⃣ | Pocket | [🖌️](../main/refsheets/pocket.png) | Refsheet does not contain black "fox" markings on snout | ✅ |
+| Joker 4️⃣ | Pax | [🖌️](../main/refsheets/pax.png) | | ✅ |
 |  |  |  |  |  |
 | Backside | | | Generic backside with cactus, dorito's and paws | |
 
