@@ -22,9 +22,9 @@
 | Jack ♦️ | Benzene | [🖌️](../main/refsheets/benzene.png) | | ✅ |
 | Jack ♥️ | Jack O’Neill | [🖌️](../main/refsheets/jack.png) | | ✅ |
 |  |  |  |  |  |
-| Joker 1️⃣ | Infinity | [🖌️](../main/refsheets/infinity.png) | Grey on the refsheet is really dark, sona is normally lighter grey | ✅ |
+| Joker 1️⃣ | Infinity | [🖌️](../main/refsheets/infinity.png) [📸](../main/pictures/infinity.jpg) | Grey on the refsheet is really dark, sona is normally lighter grey | ✅ |
 | Joker 2️⃣ | Leon | [🖌️](../main/refsheets/leon.png) | | ⏳ |
-| Joker 3️⃣ | Pocket | [🖌️](../main/refsheets/pocket.png) | Refsheet does not contain black "fox" markings on snout | ✅ |
+| Joker 3️⃣ | Pocket | [🖌️](../main/refsheets/pocket.png) [📸](../main/pictures/pocket.jpg) | Refsheet does not contain black "fox" markings on snout | ✅ |
 | Joker 4️⃣ | Pax | [🖌️](../main/refsheets/pax.png) | | ✅ |
 |  |  |  |  |  |
 | Backside | | | Generic backside with cactus, dorito's and paws | |
